@@ -1,0 +1,4 @@
+﻿  ClasseTexto.cpp
+D:\TSI\LP\Atividades\ClasseTexto\ClasseTexto\Texto.h(99,19): warning C4804: '>': uso não seguro de tipo 'bool' em operação
+D:\TSI\LP\Atividades\ClasseTexto\ClasseTexto\Texto.h(86): warning C4715: 'Texto::alterar': nem todos os caminhos de controle retornam um valor
+  ClasseTexto.vcxproj -> D:\TSI\LP\Atividades\ClasseTexto\x64\Debug\ClasseTexto.exe
